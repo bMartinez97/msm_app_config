@@ -1,0 +1,18 @@
+{
+    "client_id": "MSM",
+    "app_title": "Mi salud mental",
+    "logo_url": "assets/images/Tandotek_Logo_MSM_16.svg",
+    "screens": {
+        "login": {
+            "title_page": "Bienvenido",
+            "text_color": "0xFFFFFFFF",
+            "font_size": 40,
+            "font_weight": 400,
+            "input_hint_text": "Número celular",
+            "color_input_icon": "0xFFFFFFFF",
+            "text_button": "Ingresar",
+            "button_background_color": "0XFFC17C45",
+            "button_text_color": "0xFFFFFFFF"
+        }
+    }
+}
