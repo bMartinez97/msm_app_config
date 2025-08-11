@@ -4,7 +4,7 @@
     "logo_url": "assets/images/Tandotek_Logo_MSM_16.svg",
     "screens": {
         "login": {
-            "title_page": "brandon",
+            "title_page": "Hola",
             "text_color": "0xFFFFFFFF",
             "font_size": 40,
             "font_weight": 400,
