@@ -15,15 +15,16 @@
             "button_text_color": "0xFFFFFFFF"
         },
         "otp" : {
-            "imagePage" : "assets/images/Tandotek_simbolo.svg",
+            "image_page" : "assets/images/Tandotek_simbolo.svg",
             "title_page" : "Ingresa el código OTP\n enviado por sms\n brandon",
             "text_color" : "0xFF0F4756",
             "pin_text_color" : "0xFF0F4756",
             "border_input_color" : "0xFF0F4756",
-            "primaryButton" : "validar prueba",
+            "primary_button" : "validar prueba",
             "button_background_color" : "0xFF0F4756",
             "button_text_color": "0xFFFFFFFF",
-            "secondary_button" : "Reenviar codigo brandon"
+            "text_button" : "Reenviar codigo brandon",
+            "text_button_color" : "0xFF0F4756"
         }
     }
 }
