@@ -4,14 +4,14 @@
     "logo_url": "assets/images/Tandotek_Logo_MSM_16.svg",
     "screens": {
         "login": {
-            "title_page": "Esta es una prueba",
+            "title_page": "MSM",
             "text_color": "0xFFFFFFFF",
-            "font_size": 40,
+            "font_size": 100.00,
             "font_weight": 400,
-            "input_hint_text": "Número celular",
+            "input_hint_text": "prueba",
             "color_input_icon": "0xFFFFFFFF",
-            "text_button": "Ingresar",
-            "button_background_color": "0XFFC17C45",
+            "text_button": "brandon prueba",
+            "button_background_color": "0xFF0F4756",
             "button_text_color": "0xFFFFFFFF"
         }
     }
