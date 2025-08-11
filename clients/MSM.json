@@ -1,0 +1,29 @@
+{
+    "client_id": "MSM",
+    "app_title": "Mi salud mental",
+    "logo_url": "assets/images/Tandotek_Logo_MSM_16.svg",
+    "screens": {
+        "login": {
+            "title_page": "MSM",
+            "text_color": "0xFFFFFFFF",
+            "font_size": 100.00,
+            "font_weight": 400,
+            "input_hint_text": "prueba",
+            "color_input_icon": "0xFFFFFFFF",
+            "primaryButton": "brandon prueba",
+            "button_background_color": "0xFF0F4756",
+            "button_text_color": "0xFFFFFFFF"
+        },
+        "otp" : {
+            "imagePage" : "assets/images/Tandotek_simbolo.svg",
+            "title_page" : "Ingresa el código OTP\n enviado por sms\n brandon",
+            "text_color" : "0xFF0F4756",
+            "pin_text_color" : "0xFF0F4756",
+            "border_input_color" : "0xFF0F4756",
+            "primaryButton" : "validar prueba",
+            "button_background_color" : "0xFF0F4756",
+            "button_text_color": "0xFFFFFFFF",
+            "secondary_button" : "Reenviar codigo brandon"
+        }
+    }
+}
